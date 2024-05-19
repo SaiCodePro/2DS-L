@@ -4,6 +4,7 @@ https://doi.org/10.1016/j.physd.2024.134203
 @article{AZIZI2024134203,
 title = {2DS-L: A dynamical system decomposition of signal approach to learning with application in time series prediction},
 journal = {Physica D: Nonlinear Phenomena},
+volume = {465},
 pages = {134203},
 year = {2024},
 issn = {0167-2789},
